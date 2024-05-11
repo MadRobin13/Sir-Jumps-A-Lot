@@ -1,4 +1,4 @@
 # Sir-Jumpsalot
 A small game made in Godot.
 ## Web Game Link
-Also it is hosted on vercel here: [the game](https://sir-jumpsalot.vercel.app/)
+The game is hosted on vercel here: [the game](https://sir-jumpsalot.vercel.app/)
